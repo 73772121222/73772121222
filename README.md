@@ -1,4 +1,4 @@
-### Hi there 
+### Details
 Name:M.K.Vishnupriyan
 Department:Information Technology
 Year:Third Year
